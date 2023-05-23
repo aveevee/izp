@@ -1,2 +1,0 @@
-# izp
-Základy programování
