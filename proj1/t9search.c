@@ -1,7 +1,6 @@
 /*
    * IZP Project 1 - "Prace s textem"
    * Autor: Urmanbetov Aidan (xurman00)
-   * xurman00@stud.fit.vut.cz
    * Date: 30.10.2022
 */
 
